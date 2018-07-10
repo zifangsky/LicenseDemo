@@ -4,7 +4,7 @@
 在基于Spring的项目中使用 `TrueLicense `生成和验证`License证书`（服务器许可）的示例代码
 
 #### 技术依赖：
-* `Spring Boot`：项目基础架构，包括提供`基本Web服务`和`定时调度服务`
+* `Spring Boot`：项目基础架构
 * `TrueLicense `：基于`Java`实现的生成和验证服务器许可的简单框架
 
 #### 环境依赖：
